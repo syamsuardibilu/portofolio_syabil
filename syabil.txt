@@ -1,2 +1,3 @@
 Ini adalah Web pertama saya
-Ini Baris kedua untuk contoh edit
+
+Ini baris ketida, dan baris kedua di hapus
